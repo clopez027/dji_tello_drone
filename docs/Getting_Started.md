@@ -15,3 +15,5 @@ Prepare for contributions to the team with the below information to guide you.
 * [Install SourceTree](https://confluence.atlassian.com/get-started-with-sourcetree/install-sourcetree-847359094.html)
 * [Connect your GitHub Account](https://confluence.atlassian.com/get-started-with-sourcetree/connect-your-bitbucket-or-github-account-847359096.html)
 * [Using Git with a GUI](https://app.pluralsight.com/library/courses/using-git-with-gui/table-of-contents)
+* [GitHub Guides](https://guides.github.com/)
+* [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
