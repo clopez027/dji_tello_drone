@@ -3,4 +3,7 @@ Python is a high-level general-purpose programming language createrd by Guido va
 
 # Intro to Python
 Below are some resources that will help you get started with learning Python 
-* 
+* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+* [Beginner's Guide for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+* [Beginner's Guide for Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
