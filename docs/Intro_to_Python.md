@@ -1,3 +1,4 @@
+![Alt text](https://www.telegraph.co.uk/content/dam/news/2017/03/23/TELEMMGLPICT000124087170_trans_NvBQzQNjv4BqkyPppccvw_8G9l9QMSWVQCZB5ZoYTMI5BDYbG6GDN7A.jpeg?imwidth=450)
 # What is Python
 Python is a high-level general-purpose programming language createrd by Guido van Rossum in the 1990's. Learning Python is relitevely simple and doesnt require a programming background. Conterary to belief, it's name derived from the British comedy group "Monty Python" and not the snake. 
 
