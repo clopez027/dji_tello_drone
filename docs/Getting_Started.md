@@ -17,3 +17,13 @@ Prepare for contributions to the team with the below information to guide you.
 * [Using Git with a GUI](https://app.pluralsight.com/library/courses/using-git-with-gui/table-of-contents)
 * [GitHub Guides](https://guides.github.com/)
 * [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+
+## For Non-Production Devices
+
+* Personal Device or designated OCC NON-prod T430's laptops: L0143502/L0143519
+* Personal Hotspot i.e. your phone 
+* Python version 3 installed:
+  * [Windows](https://www.python.org/downloads/windows/)
+  * [Mac](https://www.python.org/downloads/mac-osx/)
+* Ubuntu Linux (Optional OS, not required) 
+  * [Bootable ISO USB stick](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0)
