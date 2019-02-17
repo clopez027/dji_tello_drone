@@ -28,4 +28,4 @@ Prepare for contributions to the team with the below information to guide you.
 * Ubuntu Linux (Optional OS, not required) 
   * [Bootable ISO USB stick](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0)
 
-## [Get Started with Python](.docs/Intro_to_Python.md)
+## [Get Started with Python](./docs/Intro_to_Python.md)
